@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @xVoidDevilx, but my real name is Silas Rodriguez. Computer Engineer student from Texas Tech University & studying my Master's Degree in Computer Science @ UT Austin.
+- 👋 Hi, I’m Silas Rodriguez. Computer Engineer alumni from Texas Tech University with a passion for low-level programming, hardware design, and learning.
 
-- 👀 I’m studying embedded systems, software engineering, ML+AI, image and audio signal processing, computer networks, computer architecture, cyber security, web dev, robotics, OS, compiler and language theory, and advanced electronics.
+- 👀 I’m an embedded software engineer with a background in software engineering, ML & AI, image and audio signal processing, computer networks, computer architecture, virtualization, robotics, and electronics.
 
-- 🌱 Exploring KiCAD PCB design, C++, C, Python, Java, JS + TS, Rust, Lua, Verilog, Bash, and Assembly.
+- 🌱 Exploring KiCAD PCB design, Rust, MariaDB, C++, C, Python, Typescript, and Verilog with Xilinx FPGAs.
 
-- 💞️ I have hobbies outside of electronics and development too, like anime, mentoring, animals, and longboarding.
+- 💞️ I have hobbies outside of electronics and development too, like anime, video games, mentoring, animals, and longboarding.
 
-- 📫 How to reach me: My email is xvoiddevilx@protonmail.com and my Discord is xVoidDevilx :)
+- 📫 How to reach me: My email is silasrodriguez02@gmail.com and my Discord is xVoidDevilx
